@@ -1,19 +1,10 @@
 {
-    "id": "95beef83-2a49-488e-b727-5be5d113fb16",
+    "id": "cc7aefc8-f27e-4fde-899d-3ccc69388e04",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Barrier_obj",
+    "name": "Stage1",
     "eventList": [
-        {
-            "id": "90055f07-2212-40f6-8c55-d5f6d8d353ba",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "95beef83-2a49-488e-b727-5be5d113fb16"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "519006d4-fb94-4218-8b40-328cbf59585b",
+    "spriteId": "c140d550-b1b9-486a-9f43-8b555229f20e",
     "visible": true
 }
