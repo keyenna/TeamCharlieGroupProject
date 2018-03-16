@@ -1,7 +1,7 @@
 
-normalSpeed = 5
-jumpSpeed = 15
-normalGravity = 1
+normalSpeed = 30
+jumpSpeed = 45
+normalGravity = 2
 depth = -1
 
 ///initialize the global variable

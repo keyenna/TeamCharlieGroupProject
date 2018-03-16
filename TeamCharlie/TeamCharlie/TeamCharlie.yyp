@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "12a33b44-8f15-4864-9fbf-565f487a018e",
+            "Value": {
+                "id": "fa94c3ab-b59d-4ca3-accb-30d568078532",
+                "resourcePath": "sprites\\vampireAttack1\\vampireAttack1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "190b1615-a003-4636-a5c2-ee9a6757d96c",
             "Value": {
                 "id": "38b5fd09-0b8f-4f3c-998a-24911dba8349",
@@ -63,11 +71,27 @@
             }
         },
         {
+            "Key": "25cf00d8-ed1e-4c9d-966f-3882cfd4202d",
+            "Value": {
+                "id": "c6aee902-d9d5-4e41-ae45-2c41834619bf",
+                "resourcePath": "sprites\\pumpkinBlockBreaking\\pumpkinBlockBreaking.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "270128a0-78a6-4337-866e-c6f8692ae90d",
             "Value": {
                 "id": "9dd24faf-91ae-4d20-a68a-9fd35e4f579c",
                 "resourcePath": "views\\270128a0-78a6-4337-866e-c6f8692ae90d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "27e1e4a9-253f-4eb8-8625-f7d200ffcaae",
+            "Value": {
+                "id": "791ca15f-e904-456a-b9da-586de801543d",
+                "resourcePath": "sprites\\vampireBlock\\vampireBlock.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -83,6 +107,14 @@
             "Value": {
                 "id": "ea1f0752-90f4-41eb-a758-d8fcb5d72d70",
                 "resourcePath": "views\\376c5587-f988-48d6-a2a1-16b914a916cf.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "37b1b101-e698-42a7-83ce-139369630031",
+            "Value": {
+                "id": "6684d632-77a8-4406-83f5-ccf44bc1cdf0",
+                "resourcePath": "views\\37b1b101-e698-42a7-83ce-139369630031.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -135,6 +167,30 @@
             }
         },
         {
+            "Key": "519006d4-fb94-4218-8b40-328cbf59585b",
+            "Value": {
+                "id": "7b2001de-03b7-4608-b085-fd7092f3d659",
+                "resourcePath": "sprites\\pumpkinBlock\\pumpkinBlock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "51f11be0-2fdf-4a63-aa82-9912c3d97f18",
+            "Value": {
+                "id": "58c5177b-1184-4e8f-b695-3209ac616b08",
+                "resourcePath": "scripts\\scr_blocker_char\\scr_blocker_char.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "55988638-1794-4176-ab14-f24fcc426a36",
+            "Value": {
+                "id": "f919cf9a-e6c8-4858-96be-eeda3fcd4998",
+                "resourcePath": "views\\55988638-1794-4176-ab14-f24fcc426a36.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "57c52118-d484-4a14-aac4-ef2472dcd17e",
             "Value": {
                 "id": "e99cac40-d560-44e9-8208-a9e1320c611b",
@@ -164,6 +220,14 @@
                 "id": "6b09738b-8ac1-473d-b36e-94de0807170d",
                 "resourcePath": "views\\6f1c548d-8517-4446-8e80-15ad61ca5be2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "76fdb9fe-d42f-4c76-8c9a-a751fdf3207c",
+            "Value": {
+                "id": "33afcc13-e42f-40fb-b4f3-99e2a7ba7fe6",
+                "resourcePath": "sprites\\vampireBody\\vampireBody.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -271,6 +335,14 @@
             }
         },
         {
+            "Key": "a6c349d8-f720-47eb-8daf-5908ec7b143f",
+            "Value": {
+                "id": "419a471f-ef0c-4f83-9af2-b1094128cdb5",
+                "resourcePath": "views\\a6c349d8-f720-47eb-8daf-5908ec7b143f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "afc1928d-2415-447e-8b33-8760414a1b98",
             "Value": {
                 "id": "f5b1529f-a2aa-40f1-ba28-428344dd15ce",
@@ -292,6 +364,14 @@
                 "id": "ffe9b4ca-c329-40ca-9fe4-d0f3ee4671bf",
                 "resourcePath": "objects\\Char3_select\\Char3_select.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c1e12ab8-d93d-4629-b28a-e5ff291be5ff",
+            "Value": {
+                "id": "d7195120-4e89-4f3d-8f5c-cc9f2ed18951",
+                "resourcePath": "sprites\\EyeFire\\EyeFire.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -383,6 +463,14 @@
             }
         },
         {
+            "Key": "ef3f65c7-3b43-49dd-a12d-3f297fabf6bf",
+            "Value": {
+                "id": "8c580e9c-aa56-42ea-8535-a916855f3e7e",
+                "resourcePath": "sprites\\pumpkinBody\\pumpkinBody.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f1550d41-5d8d-4818-b778-8980a112f6aa",
             "Value": {
                 "id": "3ca3b6f6-947f-44ae-9f07-e343d99e8858",
@@ -434,7 +522,8 @@
     "script_order": [
         "518879a4-b43d-41b6-aaeb-be81ddb2e6ab",
         "8b3381eb-b3f4-4d1d-af9d-84cb39399352",
-        "d3429826-280f-4fc0-aa9f-7cba83de9102"
+        "d3429826-280f-4fc0-aa9f-7cba83de9102",
+        "51f11be0-2fdf-4a63-aa82-9912c3d97f18"
     ],
     "tutorial": ""
 }

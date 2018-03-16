@@ -5,9 +5,9 @@
     "name": "f9e69dca-cd14-4835-9b54-1e2e876caf4e",
     "children": [
         "57c52118-d484-4a14-aac4-ef2472dcd17e",
-        "7dbcac80-af5f-46f9-81be-ae15c1cd345e",
-        "f97bd289-a809-4ad2-8cfe-50ee111c8ec5",
-        "37ebbcc9-81c9-4aa7-b85d-753aefcdc335"
+        "37ebbcc9-81c9-4aa7-b85d-753aefcdc335",
+        "a6c349d8-f720-47eb-8daf-5908ec7b143f",
+        "37b1b101-e698-42a7-83ce-139369630031"
     ],
     "filterType": "GMSprite",
     "folderName": "Character Sprites",
