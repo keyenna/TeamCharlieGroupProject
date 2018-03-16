@@ -95,11 +95,27 @@
             }
         },
         {
+            "Key": "2960d566-c452-47e8-9e4d-7af34568b680",
+            "Value": {
+                "id": "0c6bc958-255f-4341-8bae-ce6f2561a279",
+                "resourcePath": "objects\\Fire\\Fire.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2ba868e5-8282-4947-9641-9229e373d7cb",
             "Value": {
                 "id": "e73ab8a8-8fe3-4db8-905f-f70f89bc30a5",
                 "resourcePath": "rooms\\LevelSelect\\LevelSelect.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "30629cbf-fd9f-41ff-b387-58c55a812040",
+            "Value": {
+                "id": "927562de-5788-4971-b7d2-bd941c68c486",
+                "resourcePath": "views\\30629cbf-fd9f-41ff-b387-58c55a812040.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -148,6 +164,14 @@
                 "id": "a71d809a-6e31-4824-8e1d-3734015ac141",
                 "resourcePath": "views\\4858fd19-d02c-48cc-8751-aa5ca880287a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4aa57187-0637-4826-a274-4530ca463d5e",
+            "Value": {
+                "id": "39189c28-e083-4188-8827-d1ef6756014a",
+                "resourcePath": "scripts\\scr_flame\\scr_flame.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -503,6 +527,22 @@
             }
         },
         {
+            "Key": "f5456103-daa0-4a1d-b1b1-da5876c32a0b",
+            "Value": {
+                "id": "3ab7cc96-a461-4b55-ac25-51fe00085fb4",
+                "resourcePath": "objects\\FlameSpawner\\FlameSpawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f5de0ec4-8756-4d6c-8afd-a1da97044f10",
+            "Value": {
+                "id": "58f7c0ca-a5b6-4577-ae24-b3f7f7cb9cfc",
+                "resourcePath": "objects\\object16\\object16.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f97bd289-a809-4ad2-8cfe-50ee111c8ec5",
             "Value": {
                 "id": "12f4d076-61ad-4745-b14c-c85516bbf5de",
@@ -547,7 +587,8 @@
         "518879a4-b43d-41b6-aaeb-be81ddb2e6ab",
         "8b3381eb-b3f4-4d1d-af9d-84cb39399352",
         "d3429826-280f-4fc0-aa9f-7cba83de9102",
-        "51f11be0-2fdf-4a63-aa82-9912c3d97f18"
+        "51f11be0-2fdf-4a63-aa82-9912c3d97f18",
+        "4aa57187-0637-4826-a274-4530ca463d5e"
     ],
     "tutorial": ""
 }
