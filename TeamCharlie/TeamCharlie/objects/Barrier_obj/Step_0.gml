@@ -1,3 +1,4 @@
+//scr_blocker_char;
 if (instance_exists(Char1)){	
 	if (Char1.hspeed > 0) {
 		image_xscale = 1

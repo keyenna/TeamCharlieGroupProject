@@ -1,3 +1,3 @@
-spawnFire = 100;
+spawnFire = 500;
 spawnInterval = spawnFire;
 

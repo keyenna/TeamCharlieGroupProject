@@ -1,1 +1,1 @@
-if (FlameSpawner.x =)
+//if (FlameSpawner.x =)
