@@ -1,8 +1,8 @@
 {
-    "id": "8b3381eb-b3f4-4d1d-af9d-84cb39399352",
+    "id": "b2eddab7-5d48-4f29-9f57-ec2c74aa77b7",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "scr_fight",
+    "name": "scr_fight_player2",
     "IsCompatibility": false,
     "IsDnD": false
 }

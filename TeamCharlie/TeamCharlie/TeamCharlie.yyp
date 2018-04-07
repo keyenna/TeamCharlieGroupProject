@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "259f992e-e649-49ce-93c9-8888c3bf8171",
+            "Value": {
+                "id": "ef04a066-d838-47d9-80d9-0a8bc705b7df",
+                "resourcePath": "scripts\\scr_move_player2\\scr_move_player2.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "25cf00d8-ed1e-4c9d-966f-3882cfd4202d",
             "Value": {
                 "id": "c6aee902-d9d5-4e41-ae45-2c41834619bf",
@@ -124,6 +132,14 @@
                 "id": "927562de-5788-4971-b7d2-bd941c68c486",
                 "resourcePath": "views\\30629cbf-fd9f-41ff-b387-58c55a812040.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "334dba48-ca95-4416-8f73-fdf6e90e852e",
+            "Value": {
+                "id": "f6d4b47b-ed7d-49f5-98eb-2619e964afe4",
+                "resourcePath": "objects\\Char1_2\\Char1_2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -194,7 +210,7 @@
             "Key": "518879a4-b43d-41b6-aaeb-be81ddb2e6ab",
             "Value": {
                 "id": "2368fdf8-29a3-4339-8d7b-3c3eac65628f",
-                "resourcePath": "scripts\\scr_move\\scr_move.yy",
+                "resourcePath": "scripts\\scr_move_player1\\scr_move_player1.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -306,7 +322,7 @@
             "Key": "8b3381eb-b3f4-4d1d-af9d-84cb39399352",
             "Value": {
                 "id": "af880986-b022-406f-98a8-e45fbf2cf89b",
-                "resourcePath": "scripts\\scr_fight\\scr_fight.yy",
+                "resourcePath": "scripts\\scr_fight_player1\\scr_fight_player1.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -380,6 +396,14 @@
                 "id": "f5b1529f-a2aa-40f1-ba28-428344dd15ce",
                 "resourcePath": "views\\afc1928d-2415-447e-8b33-8760414a1b98.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b2eddab7-5d48-4f29-9f57-ec2c74aa77b7",
+            "Value": {
+                "id": "a138aa3f-0313-4744-99c5-c422d931ce5d",
+                "resourcePath": "scripts\\scr_fight_player2\\scr_fight_player2.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -593,7 +617,9 @@
     ],
     "script_order": [
         "518879a4-b43d-41b6-aaeb-be81ddb2e6ab",
+        "259f992e-e649-49ce-93c9-8888c3bf8171",
         "8b3381eb-b3f4-4d1d-af9d-84cb39399352",
+        "b2eddab7-5d48-4f29-9f57-ec2c74aa77b7",
         "d3429826-280f-4fc0-aa9f-7cba83de9102",
         "4aa57187-0637-4826-a274-4530ca463d5e",
         "2a570081-acde-429f-9723-b9d69890b685"

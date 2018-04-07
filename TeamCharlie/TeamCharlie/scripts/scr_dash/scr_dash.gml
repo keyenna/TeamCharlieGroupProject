@@ -2,7 +2,7 @@
 
 if (global.dash_state = "Enabled") {
 	
-	if (keyboard_check_pressed(ord("J"))) {	
+	if (keyboard_check_pressed(ord("E"))) {	
 		normalSpeed = normalSpeed*4;
 		hspeed *= .9;
 		alarm[0] = room_speed/3;
