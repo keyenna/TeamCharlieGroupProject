@@ -15,9 +15,9 @@ if (global.player2 == 1) {
 }
 
 if (global.player2 == 2) {
-	instance_create_depth(6000, 1000,-1,Char2)
+	instance_create_depth(6000, 1000,-1,Char2_2)
 }
 
 if (global.player2 == 3) {
-	instance_create_depth(6000, 1000,-1,Char3)
+	instance_create_depth(6000, 1000,-1,Char3_2)
 }
