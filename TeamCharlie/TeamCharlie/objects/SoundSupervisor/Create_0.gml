@@ -1,0 +1,1 @@
+audio_play_sound(selectScreenMusic, 1, true)

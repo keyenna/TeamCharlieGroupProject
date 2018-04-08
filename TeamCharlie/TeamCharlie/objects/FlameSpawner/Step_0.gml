@@ -1,4 +1,4 @@
-// count down by one
+//count down by one
 if spawnFire > 0 {
 	spawnFire -= 1;
 	if (spawnFire = 50){
@@ -11,7 +11,4 @@ if spawnFire > 0 {
 else { 
 	spawnFire = spawnInterval;
 }
-	// then, reset the timer
-	
-
-
+	//then, reset the timer

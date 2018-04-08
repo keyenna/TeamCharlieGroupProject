@@ -1,4 +1,4 @@
-///movement scripts
+//movement scripts
 
 /*move with A,D ... jump with W ... dash with J */
 

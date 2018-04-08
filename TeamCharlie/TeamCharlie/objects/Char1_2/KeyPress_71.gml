@@ -1,3 +1,1 @@
-
-instance_create_depth(Char1.x+64,Char1.y,-1,Barrier_obj)
-
+instance_create_depth(Char1_2.x+64,Char1_2.y,-1,Barrier_obj)

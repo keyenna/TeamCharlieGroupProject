@@ -1,2 +1,2 @@
-/// initialize the dash effect
+//initialize the dash effect
 image_alpha = .5;

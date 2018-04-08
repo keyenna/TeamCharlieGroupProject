@@ -1,3 +1,2 @@
-///For Dash State
-
+//For Dash State
 normalSpeed = 5

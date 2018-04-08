@@ -1,7 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-// Inherit the parent event
-///For Dash State
-
+//Inherit the parent event
+//For Dash State
 normalSpeed = 30

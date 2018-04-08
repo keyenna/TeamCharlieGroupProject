@@ -1,4 +1,3 @@
-
 if (x = 250) {
 	global.character = 1
 	global.change_room2  = true
